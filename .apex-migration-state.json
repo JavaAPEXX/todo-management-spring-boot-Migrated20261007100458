@@ -1,0 +1,7 @@
+{
+  "job_id": "job_bc920c3ae071",
+  "sourceRepoUrl": "https://github.com/RameshMF/todo-management-spring-boot",
+  "targetJavaVersion": "21",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
